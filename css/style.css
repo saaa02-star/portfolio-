@@ -410,3 +410,12 @@ font-size: 14px;
   color: #888;
 }
 
+.site-link {
+  color: #666;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.site-link:hover {
+  color: #222;
+}
